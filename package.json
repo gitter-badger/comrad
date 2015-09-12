@@ -1,0 +1,13 @@
+{
+  "title": "Firefox Smart Comment Generator",
+  "name": "firecomm",
+  "version": "0.0.1",
+  "description": "A Firefox add-on that generates smart markdown comments based on context templates. Useful for QA to track bugs and automatically record Objective Evidence.  ",
+  "main": "index.js",
+  "author": "Keifer Furzland",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT"
+}
