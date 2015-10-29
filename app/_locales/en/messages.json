@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "comrad",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "A smart ",
+    "description": "The description of the application"
+  }
+}
